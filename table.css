@@ -1,0 +1,23 @@
+.first{
+    text-align: center;
+}
+
+.paragraph1{
+    font-size: 20px;
+    line-height: -3px;
+}
+.second{
+    border: solid black 1px ;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 15%;
+    text-align: center;
+}
+
+.myclass{
+    font-size: 25px;
+    font-weight: bold;
+    border: solid black 1px ;
+    width: 60%;
+    float: right;
+}
